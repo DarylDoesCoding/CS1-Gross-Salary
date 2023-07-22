@@ -20,4 +20,5 @@ Enter basic salary of an employee: 25000
                      --------------------------
 
 # About this Project
+<br>
 This C++ Program was created using Dev C++ 5.11
