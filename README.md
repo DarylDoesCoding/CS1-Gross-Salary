@@ -11,13 +11,13 @@ Basic Salary >=40000 HRA = 30%, DA = 95% <br>
 
 <h2>Output</h2>
 <br><br>
-Enter basic salary of an employee: 25000
-                        Basic Pay: 25000
-               Dearness Allowance: 22500
-             House Rent Allowance: 6250
-                     --------------------------
-                     Gross Salary: 53750
-                     --------------------------
+Enter basic salary of an employee: 25000<br>
+                        Basic Pay: 25000<br>
+               Dearness Allowance: 22500<br>
+             House Rent Allowance: 6250<br>
+                     --------------------------<br>
+                     Gross Salary: 53750<br>
+                     --------------------------<br>
 
 # About this Project
 <br>
